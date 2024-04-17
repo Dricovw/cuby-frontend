@@ -2,6 +2,13 @@
 
 We use this Sveltekit and tailwind boilerplate throughout the whole course.
 
+
+## creators
+Drico van Wijk
+Dawid Czuba
+Vladislav Pavlov
+Ignacio Amat
+Ilyas Boutchich
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
